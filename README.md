@@ -30,5 +30,5 @@ DESCRIPTION
 
 ## Authors
 
-- SMOTER Noa ([LinkeIn](https://www.github.com/nerzouille) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkeIn](https://www.github.com/nerzouille) / [Portfolio](https://noasmoter.vercel.app/))
 
